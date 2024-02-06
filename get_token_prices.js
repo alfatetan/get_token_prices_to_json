@@ -6,8 +6,8 @@ const FileSystem = require("fs");
 
 // Keys and other shit
 const serverUrl = "https://btezbpet4qai.usemoralis.com:2053/server";
-const appId = "nROExRomrHTUaWoA3r3MGTC4exWvWuYGDlKIojpe";
-const masterKey = "EIIqFxMqo5QaW3VD2bMSCS9txvyBmEmVNQqowZU4P";
+const appId = "YourAppID";
+const masterKey = "YourMasterKey";
 
 // Change for your needs
 const tokenAddress = "0x76306F029f8F99EFFE509534037Ba7030999E3CF"; //ACR Token
