@@ -1,4 +1,9 @@
 "use strict";
+
+// A sample piece of code to show working with the API Moralis framework
+// Code parses a price history of the ACR token from Ethereum's blockchain network
+
+
 // Moralis Initial
 const Moralis = require("moralis/node");
 const moment = require("moment");
